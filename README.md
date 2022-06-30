@@ -47,8 +47,7 @@ I'm Rezzak a web developer from India and blogger, I spend most of the time codd
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<br />
-<br />
+
 
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
