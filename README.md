@@ -6,7 +6,9 @@ I'm Rezzak a web developer from India and blogger, I spend most of the time codd
 
 - 📝 I regularly write articles on https://therezzak.blogspot.com
 
-- Most used line of code console.log("hello world") 
+- 👩‍💻 Most used line of code console.log("hello world") 
+
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React, Express.js, JavaScript**
 
