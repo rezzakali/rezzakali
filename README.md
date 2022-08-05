@@ -10,21 +10,17 @@ I'm Rezzak a web developer from India and blogger, I spend most of the time codd
 &nbsp;
 <a href="https://instagram.com/rezzak134" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rezzak134" /></a>
 &nbsp;
-<a href="https://instagram.com/rezzak134" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="rezzak134" /></a>
+<a href="https://www.reddit.com/user/rezzak_ali" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="rezzak134" /></a>
 &nbsp;
 <a href="mailto:myrezzakalirk@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rezzak#8876" /></a>
 </p>
 
 
-📝 I regularly write articles on https://therezzak.blogspot.com
-
 👩‍💻 Most used line of code console.log("hello world") 
 
-🌱 I’m currently learning **MERN Stack**
+🌱 I’m currently learning **Redux**
 
 💬 Ask me about **React, Express.js, JavaScript**
-
-📫 How to reach me **myrezzakalirk@gmail.com**
 
 ⚡ Fun fact **I think I am funny**
 
