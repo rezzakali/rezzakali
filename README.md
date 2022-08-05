@@ -15,14 +15,13 @@ I'm Rezzak Ali a web developer from India, I spend most of the time coding with 
 <a href="mailto:myrezzakalirk@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rezzak#8876" /></a>
 </p>
 
+❤ I enjoy programming
 
-👩‍💻 Most used line of code console.log("hello world") 
+💻 Most used line of code <code>console.log("hello world")</code>
 
 🌱 I’m currently learning **Redux**
 
 💬 Ask me about **React, Express.js, JavaScript**
-
-⚡ Fun fact **I think I am funny**
 
 
 ## Things I code with
