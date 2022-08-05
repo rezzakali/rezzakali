@@ -2,20 +2,6 @@
 
 I'm Rezzak a web developer from India and blogger, I spend most of the time codding with outstanding project and also as a freelancer.
 
-
-
-- 📝 I regularly write articles on https://therezzak.blogspot.com
-
-- 👩‍💻 Most used line of code console.log("hello world") 
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **React, Express.js, JavaScript**
-
-- 📫 How to reach me **myrezzakalirk@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p dir="auto">
 <a href="https://linkedin.com/in/rezzak-ali-18149a1ab" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rezzak-ali-18149a1ab" /></a>
@@ -29,18 +15,19 @@ I'm Rezzak a web developer from India and blogger, I spend most of the time codd
 <a href="mailto:myrezzakalirk@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rezzak#8876" /></a>
 </p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rezzakali&show_icons=true&theme=radical" />
-<img align="left" width="47%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzakali&layout=compact" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+📝 I regularly write articles on https://therezzak.blogspot.com
+
+👩‍💻 Most used line of code console.log("hello world") 
+
+🌱 I’m currently learning **MERN Stack**
+
+💬 Ask me about **React, Express.js, JavaScript**
+
+📫 How to reach me **myrezzakalirk@gmail.com**
+
+⚡ Fun fact **I think I am funny**
+
 
 ## Things I code with
 
