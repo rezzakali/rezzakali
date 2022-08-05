@@ -5,13 +5,13 @@ I'm Rezzak Ali a web developer from India, I spend most of the time coding with 
 <h3 align="left">Connect with me:</h3>
 <p dir="auto">
 <a href="https://linkedin.com/in/rezzak-ali-18149a1ab" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rezzak-ali-18149a1ab" /></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://fb.com/rezzakali22" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="rezzakali22" /></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://instagram.com/rezzak134" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rezzak134" /></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.reddit.com/user/rezzak_ali" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="rezzak134" /></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:myrezzakalirk@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rezzak#8876" /></a>
 </p>
 
