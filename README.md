@@ -13,6 +13,8 @@ I'm Rezzak Ali a web developer from India, I spend most of the time coding with 
 <a href="https://www.reddit.com/user/rezzak_ali" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="rezzak134" /></a>
 &nbsp;
 <a href="mailto:myrezzakalirk@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rezzak#8876" /></a>
+ &nbsp;
+ <a href="https://dev.to/rezzakali" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rezzak#8876" /></a>
 </p>
 
 ❤ I enjoy programming
@@ -65,8 +67,6 @@ I'm Rezzak Ali a web developer from India, I spend most of the time coding with 
 ## Currently learning
 
 <p dir="auto">
- <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
- &nbsp;
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)" />
  &nbsp;
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
