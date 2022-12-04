@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rezzak Ali a web developer from India, I spend most of the time coding with outstanding project and also as a freelancer.
+I'm Rezzak, a front-end web application developer from India, I spend most of the time coding with outstanding project.
 
 <h3 align="left">Connect with me:</h3>
 <p dir="auto">
