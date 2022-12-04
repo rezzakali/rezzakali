@@ -21,7 +21,7 @@ I'm Rezzak, a front-end web application developer from India, I spend most of th
 
 💻 Most used line of code <code>console.log("hello world")</code>
 
-💬 Ask me about **React, Express.js, JavaScript**
+💬 Ask me about ** React.js, Express.js, JavaScript, Next.js  **
 
 
 ## Things I code with
