@@ -21,7 +21,7 @@ I'm Rezzak, a front-end web application developer from India, I spend most of th
 
 💻 Most used line of code <code>console.log("hello world")</code>
 
-💬 Ask me about ** React.js, Express.js, JavaScript, Next.js  **
+💬 Ask me about ** React.js, Express.js, JavaScript, Next.js , Redux, Redux Toolkit, RTK Query **
 
 
 ## Things I code with
@@ -61,7 +61,15 @@ I'm Rezzak, a front-end web application developer from India, I spend most of th
  &nbsp;
  <img  src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
  &nbsp;
+ <img  src="https://img.shields.io/badge/redux-toolkit-%23593d88.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white" />
+ &nbsp;
+ <img src="https://img.shields.io/badge/rtk-query-%234ED1C5.svg?style=for-the-badge&logo=rtk-query&logoColor=white" />
+ &nbsp;
  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+ &nbsp;
+ <img src="https://img.shields.io/badge/vite-%234ED1C5.svg?style=for-the-badge&logo=vite&logoColor=white" />
+ &nbsp;
+ <img src="https://img.shields.io/badge/wordpress-%234ED1C5.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
  
 ## Currently learning
