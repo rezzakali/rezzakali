@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rezzak, a web application developer from India, I spend most of the time coding with outstanding project.
+I'm Rezzak, a passionate web application developer from India, dedicated to crafting exceptional digital experiences through code. With a strong focus on creating outstanding projects, I immerse myself in the world of development, constantly honing my skills to deliver cutting-edge solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p dir="auto">
