@@ -5,7 +5,7 @@ I'm Rezzak, a passionate web application developer from India, dedicated to craf
 <h3 align="left">Connect with me:</h3>
 <p dir="auto">
 <a href="https://linkedin.com/in/rezzak-ali-18149a1ab" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rezzak-ali-18149a1ab" /></a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://fb.com/rezzakali22" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="rezzakali22" /></a>
 &nbsp;
 <a href="https://instagram.com/rezzak134" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rezzak134" /></a>
