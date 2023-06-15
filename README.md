@@ -4,13 +4,13 @@ I'm Rezzak, a passionate web application developer from India, dedicated to craf
 
 <h3 align="left">Connect with me:</h3>
 <p dir="auto">
+ <a href="https://rezzak.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=website&logoColor=white" alt="rezzak.portfolio" /></a>
+&nbsp;
 <a href="https://linkedin.com/in/rezzak" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="coder.rezzak" /></a>
 &nbsp;
 <a href="https://fb.com/coder.rezzak" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="coder.rezzak" /></a>
 &nbsp;
 <a href="https://instagram.com/coder.rezzak" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="coder.rezzak" /></a>
-&nbsp;
-<a href="https://www.reddit.com/user/rezzak_ali" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="rezzak134" /></a>
 &nbsp;
 <a href="mailto:myrezzakalirk@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rezzak#8876" /></a>
  &nbsp;
