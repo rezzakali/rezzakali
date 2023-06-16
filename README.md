@@ -73,6 +73,8 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
 ## Currently learning
 
 <p dir="auto">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)" />
+ &nbsp;
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
