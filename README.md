@@ -35,7 +35,17 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
  &nbsp;
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
  &nbsp;
+ <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+ &nbsp;
+<img src="https://img.shields.io/badge/material-ui-%2338B2AC.svg?style=for-the-badge&logo=materialui&logoColor=white" alt="Material-UI">
+ &nbsp;
  <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />  
+ &nbsp;
+ <img  src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+ &nbsp;
+ <img  src="https://img.shields.io/badge/redux-toolkit-%23593d88.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white" />
+ &nbsp;
+ <img src="https://img.shields.io/badge/rtk-query-%234ED1C5.svg?style=for-the-badge&logo=rtk-query&logoColor=white" />
  &nbsp;
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)" />
  &nbsp;
@@ -47,6 +57,8 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
  &nbsp;
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
  &nbsp;
+ <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+ &nbsp;
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
  &nbsp;
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -54,16 +66,6 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
   &nbsp;
  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
- &nbsp;
- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
- &nbsp;
- <img  src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
- &nbsp;
- <img  src="https://img.shields.io/badge/redux-toolkit-%23593d88.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white" />
- &nbsp;
- <img src="https://img.shields.io/badge/rtk-query-%234ED1C5.svg?style=for-the-badge&logo=rtk-query&logoColor=white" />
- &nbsp;
- <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
  &nbsp;
  <img src="https://img.shields.io/badge/vite-%234ED1C5.svg?style=for-the-badge&logo=vite&logoColor=white" />
  &nbsp;
@@ -77,4 +79,3 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
  &nbsp;
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-
