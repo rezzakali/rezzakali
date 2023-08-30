@@ -79,5 +79,5 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
 ## Currently learning
 
 <p dir="auto">
-  <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)" />
+  <img src="https://img.shields.io/badge/graphql?style=for-the-badge&logo=graphql&logoColor=white)" />
 </p>
