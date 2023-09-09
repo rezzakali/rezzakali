@@ -21,7 +21,7 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
 
 💻 Most used line of code <code>console.log("hello world")</code>
 
-💬 Ask me about ** React.js, Express.js, JavaScript, Next.js , Redux, Redux Toolkit, RTK Query **
+💬 Ask me about **JavaScript, React.js, Express.js, Next.js , Redux, Redux Thunk, RTK Query, Tailwind CSS **
 
 
 ## Things I code with
