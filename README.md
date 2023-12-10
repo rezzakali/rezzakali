@@ -79,5 +79,5 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
 ## Currently learning
 
 <p dir="auto">
-<img src="https://img.shields.io/badge/-GraphQL-blue?style=for-the-badge&logo=graphql&logoColor=white)" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
