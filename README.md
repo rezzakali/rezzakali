@@ -75,9 +75,4 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
  &nbsp;
  <img src="https://img.shields.io/badge/wordpress-%234ED1C5.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
- 
-## Currently learning
 
-<p dir="auto">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
