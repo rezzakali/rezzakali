@@ -17,11 +17,11 @@ I'm Rezzak, a passionate web application developer, dedicated to crafting except
  <a href="https://dev.to/rezzakali" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rezzak#8876" /></a>
 </p>
 
-❤ I enjoy programming
+❤ Programming sparks joy in every line.
 
 💻 Most used line of code <code>console.log("hello world")</code>
 
-💬 Ask me about **JavaScript, React.js, Express.js, Next.js , Redux, Redux Thunk, RTK Query, Tailwind CSS **
+💬 Ask me about **JavaScript, TypeScript, React.js, Express.js, Next.js , Redux, Redux Thunk, RTK Query, Tailwind CSS **
 
 
 ## Things I code with
